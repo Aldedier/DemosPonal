@@ -12,7 +12,7 @@ namespace Demo1
         static void Main(string[] args)
         {
             // Conversión implicita
-            int a = 4;
+            int a = 6;
             int b = 5;
             a = b;
 
