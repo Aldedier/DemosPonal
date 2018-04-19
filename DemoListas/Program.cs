@@ -51,7 +51,7 @@ namespace DemoListas
             //                    select item;
 
             var resultadoLinq = from item in resultadodb
-                                where item.Precio > 30 && item.Precio < 70
+                                where item.Precio > 20 && item.Precio < 70
                                 select item;
 
             //var resultadoLinq = from item in resultadodb
